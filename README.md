@@ -13,7 +13,7 @@
 As a 4th-semester Computer Science student at Universitas Dian Nusantara, I'm skilled in Python for Data Science and I've completed a data science bootcamp where I learned techniques like:
 <ul>
   <li>Machine learning to recognize an image by using Convolutional Neural Networks and predict data to identify patterns, anticipate behaviors, and forecast future events.</li>
-  <li>Data analysis to uncover hidden insights and build solutions that make a difference.</li>
+  <li>Leveraging Pandas and Numpy for in-depth data analysis to uncover hidden patterns and trends to create impactful solutions with data story visualization by using Matplotlib and Seaborn.</li>
 </ul>
 
 I'm currently expanding my skillset by learning Next.js and golang for web development with a focus on integrating machine learning functionalities. This is an ongoing learning process, and I am enthusiastic about the potential applications in the future!
