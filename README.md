@@ -1,4 +1,4 @@
-## Hey there, I'm Rizq Ramadhan<img width=36 height=auto src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><br>
+## Hey there, I'm Muhammad Rizq Ramadhan<img width=36 height=auto src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><br>
 <a href="https://www.linkedin.com/in/rizqramadhan/">
 <img alt="Linkedin Badge" src="https://img.shields.io/badge/-rizqramadhan-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rizqramadhan/" style="max-width: 100%;"></a>
 
@@ -10,13 +10,13 @@
 <img alt="Medium Badge" src="https://img.shields.io/badge/-rizq.ramadhan17-black?style=flat-square&amp;logo=Medium&amp;logoColor=white&amp;link=https://medium.com/@rizq.ramadhan17" style="max-width: 100%;">
 </a>
 
-As a 5th-semester Computer Science student at Universitas Dian Nusantara, I'm skilled in Python for Data Science and I've completed a data science & learned techniques like:
+As a 5th-semester Computer Science student at Universitas Dian Nusantara, I'm skilled in Python for Data Science and learned techniques like:
 <ul>
   <li>Machine learning to recognize an image by using Convolutional Neural Networks and predict data to identify patterns, anticipate behaviors, and forecast future events.</li>
   <li>Leveraging Pandas and Numpy for in-depth data analysis to uncover hidden patterns and trends to create impactful solutions with data story visualization by using Matplotlib and Seaborn.</li>
 </ul>
 
-I'm currently expanding my skillset into web development and i have my target in 2024 which is:
+I'm currently expanding my skillset into web development and here's my target for 2024:
 <ul>
   <li>Mastering Golang & Typescript for back-end server</li>
   <li>Complete understanding about databases SQL & NoSQL</li>
