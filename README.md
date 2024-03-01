@@ -10,15 +10,14 @@
 <img alt="Medium Badge" src="https://img.shields.io/badge/-rizq.ramadhan17-black?style=flat-square&amp;logo=Medium&amp;logoColor=white&amp;link=https://medium.com/@rizq.ramadhan17" style="max-width: 100%;">
 </a>
 
-As a 5<sup>th</sup> semester Computer Science student at Universitas Dian Nusantara, I’m excited to share my journey and the portfolio I’m working on!
-
 <h3>Tech Stack</h3>
 <ul>
-  <li>Languages: Python, Golang, Typescript, Javascript, HTML, CSS</li>
+  <li>Languages: Python, Golang, Typescript, Javascript</li>
   <li>Framework: Flask, Gin, Express</li>
   <li>Database: Mysql, Postgres, MongoDB</li>
   <li>ORM: Gorm, Prisma</li>
   <li>Libraries: Pandas, Numpy, Matplotlib, Seaborn</li>
+  <li>Other: HTML, CSS, Boostrap</li>
 </ul>
 
 <h3>Codewars</h3>
