@@ -14,10 +14,10 @@
 <ul>
   <li>Languages: Python, Golang, Typescript, Javascript</li>
   <li>Framework: Flask, Gin, Express</li>
-  <li>Database: Mysql, Postgres, MongoDB</li>
+  <li>Database: Mysql, Postgres</li>
   <li>ORM: Gorm, Prisma</li>
   <li>Libraries: Pandas, Numpy, Matplotlib, Seaborn</li>
-  <li>Other: HTML, CSS, Boostrap</li>
+  <li>Other: HTML, CSS, Boostrap, Tailwind</li>
 </ul>
 
 <h3>Codewars</h3>
