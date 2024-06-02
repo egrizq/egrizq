@@ -20,8 +20,5 @@
   <li>Other: HTML, CSS, Boostrap, Tailwind</li>
 </ul>
 
-<h3>Codewars</h3>
-<img src="https://www.codewars.com/users/egrizq/badges/large" style="max-width=100%;">
-
 <h3>LeetCode</h3>
 <img src="https://leetcard.jacoblin.cool/egrizq" style="max-width=100%;">
