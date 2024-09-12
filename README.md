@@ -1,4 +1,7 @@
 ## Hey there, I'm Muhammad Rizq Ramadhan<img width=36 height=auto src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><br>
+
+Thrive on building and optimizing systems. Leveraging my expertise in analysis, programming, and problem-solving to build impactful products.
+
 <a href="https://www.linkedin.com/in/rizqramadhan/">
 <img alt="Linkedin Badge" src="https://img.shields.io/badge/-rizqramadhan-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rizqramadhan/" style="max-width: 100%;"></a>
 
