@@ -23,10 +23,10 @@
     ⚡ Languages: Python, Golang, Typescript, Javascript
   </p>
   <p>
-    ☁️ Database: Mysql, Postgres
+    ☁️ Database: MySql, Postgres
   </p>
   <p>
-    ⭐ Web: HTML, CSS, Boostrap, Tailwind
+    ⭐ Web: React, Vue, HTML, CSS, Boostrap, Tailwind
   </p>
 
 <h3>LeetCode</h3>
