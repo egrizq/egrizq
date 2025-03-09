@@ -20,13 +20,13 @@
 
 <h3>Tech Stack</h3>
   <p>
-    ⚡ Languages: Python, Golang, Typescript, Javascript
+    ⚡ Languages: Javascript, Typescript, PHP, Golang, Python
   </p>
   <p>
     ☁️ Database: MySql, Postgres
   </p>
   <p>
-    ⭐ Web: React, Vue, HTML, CSS, Boostrap, Tailwind
+    ⭐ Web: React, Vue, Laravel, HTML, CSS, Boostrap, Tailwind
   </p>
 
 <h3>LeetCode</h3>
