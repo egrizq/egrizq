@@ -26,7 +26,7 @@
     ☁️ Database: MySql, Postgres
   </p>
   <p>
-    ⭐ Web: React, Vue, Laravel, HTML, CSS, Boostrap, Tailwind
+    ⭐ Web: Vue, React, Nuxt, Laravel, HTML, CSS, Boostrap, Tailwind
   </p>
 
 <h3>LeetCode</h3>
