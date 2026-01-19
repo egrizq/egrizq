@@ -18,16 +18,6 @@
   Thrive on building and optimizing systems. Leveraging my expertise in analysis, programming, and problem-solving to build impactful products.
 </p>
 
-<h3>Tech Stack</h3>
-  <p>
-    ⚡ Languages: Javascript, Typescript, PHP, Golang, Python
-  </p>
-  <p>
-    ☁️ Database: MySql, Postgres
-  </p>
-  <p>
-    ⭐ Web: Vue, React, Nuxt, Laravel, HTML, CSS, Boostrap, Tailwind
-  </p>
 
 <h3>LeetCode</h3>
 <img src="https://leetcard.jacoblin.cool/egrizq" style="max-width=100%;">
